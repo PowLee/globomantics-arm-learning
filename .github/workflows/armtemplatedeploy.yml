@@ -1,4 +1,4 @@
-name: CI
+name: armTemplateDeployment
 
 on:
   workflow_dispatch:
